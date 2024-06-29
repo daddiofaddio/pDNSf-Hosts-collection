@@ -1,6 +1,3 @@
-### Repo Url: https://github.com/daddiofaddio/pDNSf-Hosts-collection
-## Custom whitelist
-
 cxepf7.tdum.alibaba.com
 abtest.alibaba.com
 ae01.alicdn.com
