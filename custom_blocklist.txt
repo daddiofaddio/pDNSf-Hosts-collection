@@ -1,5 +1,3 @@
-### Repo Url: https://github.com/daddiofaddio/pDNSf-Hosts-collection
-## Custom blocklist
 data.emb-api.com
 firebaselogging.googleapis.com
 config.emb-api.com
