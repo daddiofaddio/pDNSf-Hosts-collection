@@ -1,0 +1,23 @@
+### Repo Url: https://github.com/daddiofaddio/pDNSf-Hosts-collection
+## Custom whitelist
+
+cxepf7.tdum.alibaba.com
+abtest.alibaba.com
+ae01.alicdn.com
+aeproductsourcesite.alicdn.com
+aeis.alicdn.com
+zres.alicdn.com
+at.alicdn.com
+assets.alicdn.com
+us.ynuf.aliapp.org
+data.pendo.io
+ws.projectcarmen.com
+config.inmobi.com
+t.co
+chatgpt.livekit.cloud
+ab.chatgpt.com
+settings.kiwibrowser.com
+images.teamreach.com
+appserv.teamreach.com
+graph.facebook.com
+b-graph.facebook.com
