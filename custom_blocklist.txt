@@ -1,0 +1,29 @@
+### Repo Url: https://github.com/daddiofaddio/pDNSf-Hosts-collection
+## Custom blocklist
+data.emb-api.com
+firebaselogging.googleapis.com
+config.emb-api.com
+firebaselogging-pa.googleapis.com
+fundingchoicesmessages.google.com
+googleads.g.doubleclick.net
+ic3.events.data.microsoft.com
+launches.appsflyer.com
+browser-intake-datadoghq.com
+in.appcenter.ms
+api.rudderlabs.com
+mon.isnssdk.com
+mobile.launchdarkly.com
+mon.tiktokv.com
+i.isnssdk.com
+pubads.g.doubleclick.net
+a.nel.cloudflare.com
+optimizationguide-pa.googleapis.com
+log16-normal-useast8.us.tiktokv.com
+pagead2.googlesyndication.com
+adservice.google.com
+cx.atdmt.com
+firebase-settings.crashlytics.com
+api.radar.io
+remote-data.urbanairship.com
+device-api.urbanairship.com
+geller-pa.googleapis.com
