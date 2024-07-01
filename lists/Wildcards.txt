@@ -1,4 +1,4 @@
-# Updated on 2024-06-30 07:46:11 UTC - by daddiofaddio (https://github.com/daddiofaddio/pDNSf-Hosts-collection)
+# Updated on 2024-07-01 00:35:10 UTC - by daddiofaddio (https://github.com/daddiofaddio/pDNSf-Hosts-collection)
 0123movies.*
 0gomovies.*
 0l23movies.*
@@ -197,6 +197,7 @@ api*.bidmachine.io
 api-*.cludo.com
 api.*.com
 api-*.hismarttv.com
+api.job*.ch
 api-*.netflix.com
 api.radio.*
 api-*.spot.im
@@ -968,6 +969,7 @@ minero-proxy-*.sh
 mini.*
 minitds-*.info
 mirrorace.*
+missav.*
 mister-auto.*
 mixdroop.*
 mixdrop.*
