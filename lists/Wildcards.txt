@@ -1,4 +1,4 @@
-# Updated on 2024-07-01 00:35:10 UTC - by daddiofaddio (https://github.com/daddiofaddio/pDNSf-Hosts-collection)
+# Updated on 2024-07-01 00:55:24 UTC - by daddiofaddio (https://github.com/daddiofaddio/pDNSf-Hosts-collection)
 0123movies.*
 0gomovies.*
 0l23movies.*
