@@ -1,9 +1,10 @@
-# Updated on 2024-07-01 02:24:41 UTC - by daddiofaddio (https://github.com/daddiofaddio/pDNSf-Hosts-collection)
+# Updated on 2024-07-26 02:25:25 UTC - by daddiofaddio (https://github.com/daddiofaddio/pDNSf-Hosts-collection)
 0123movies.*
 0gomovies.*
 0l23movies.*
 1004lucifer.*
 107.167.16.*.gif
+107.167.22.*.gif
 121.204.246.*.gif
 123animes.*
 123bay.*
@@ -52,6 +53,7 @@
 31vakti.*
 31vakti-cdn.*
 33sk.*
+38.33.15.*.gif
 3sk.*
 50.7.*.*:8081
 51.15.*
@@ -140,6 +142,7 @@ ak4eg.*
 akwam.*
 akwams.*
 al-arabiya-2-i3dadi.*
+albelli.*
 aliancapes.*
 aliexpress.*
 alishop*.ru
@@ -181,6 +184,7 @@ animesanka.*
 animespirit.*
 animesup.*
 animeuniverse.*
+animevietsub.*
 animeworld.*
 anisearch.*
 anitube.*
@@ -403,7 +407,6 @@ cnt-*.svc.iptv.rt.ru
 codetwo.*
 collect-elb-*.amazonaws.com
 collector*.ex.co
-collector-*.px-client.net
 collector-*.tvsquared.com
 collector.xh*
 collect-v*.51.la
@@ -722,7 +725,6 @@ i*.gmx.com
 igram.*
 ii.apl*.me
 i*.imagetwist.com
-images.*.criteo.net
 images*.imagebam.com
 images-*.ssl-images-amazon.com
 i*.mangapanda.com
@@ -1012,6 +1014,7 @@ moviesverse.*
 movs4u.*
 mp3clan.*
 mp3guild.*
+mraw*.cyou
 mrtechmyth.*
 mrunblock.*
 ms*.applvn.com
@@ -1044,6 +1047,7 @@ netcine.*
 netflix.com*
 newbalance.*
 new.gdtot.*
+news.*.list-manage.com
 newwell.*
 nextdoor.*
 nextorrent.*
@@ -1126,7 +1130,6 @@ pickcrackpasswords.*
 picrok.*
 pijama.*.elasticbeanstalk.com
 pinterest.*
-piratbit.*
 piratebay.*
 pirateproxy.*
 piwik.*.com.vn
@@ -1159,6 +1162,7 @@ porn*.me
 porn*.net
 pornoakt.*
 porno-island.*
+posterxxl.*
 postfiles*.naver.net
 postimg.*
 pouvideo.*
@@ -1180,6 +1184,7 @@ proxybit.*
 proxyrarbg.*
 publicspeed5c.*
 publimetro.*
+pub-*.r2.dev
 punakong.com:*
 pussyspace.*
 putlocker.*
@@ -1267,9 +1272,11 @@ sf*-*cdn-tos.pstatp.com
 sf-thomas-cook.s*.amazonaws.com
 shahed4u.*
 shaheed4u.*
+shahid4u.*
 shavetape.*
 shieldmanga.*
 shikimori.*
+shopbuddies.*
 shopee.*
 short2win.*
 shrink.*
@@ -1562,7 +1569,6 @@ vipserversat.*
 vivaldi.*
 vivatube.*
 vivre.*
-vix.*.criteo.net
 vizcloud.*
 vizcloud2.*
 vizplay.*
